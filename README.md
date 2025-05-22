@@ -36,7 +36,7 @@ While selecting courses, students often face the following challenges:
   - Department-specific courses
 
 <p align="center">
-  <img src="platformer/demo/landing.png" alt="Landing Page" width="400"/>
+  <img src="platformer/docs/landing.png" alt="Landing Page" width="400"/>
 </p>
 
 ---
@@ -51,7 +51,7 @@ While selecting courses, students often face the following challenges:
 - Click any course to view detailed info
 
 <p align="center">
-  <img src="platformer/demo/search.png" alt="Search Page" width="400"/>
+  <img src="platformer/docs/search.png" alt="Search Page" width="400"/>
 </p>
 
 ---
@@ -66,7 +66,7 @@ While selecting courses, students often face the following challenges:
 - Browse peer reviews
 
 <p align="center">
-  <img src="platformer/demo/detail.png" alt="Course Detail" width="400"/>
+  <img src="platformer/docs/detail.png" alt="Course Detail" width="400"/>
 </p>
 
 ---
