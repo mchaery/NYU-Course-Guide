@@ -30,44 +30,70 @@ While selecting courses, students often face the following challenges:
 
 ### 🚪 Landing Page
 
-- Shows curated course categories:
-  - Top-Rated
-  - Low-Difficulty
-  - Department-specific courses
-
-<p align="center">
-  <img src="platformer/docs/landing.png" alt="Landing Page" width="400"/>
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <img src="docs/landing.png" alt="Landing Page" width="100%" />
+    </td>
+    <td width="50%">
+      <ul>
+        <li>Shows curated course categories:</li>
+        <ul>
+          <li>Top-Rated</li>
+          <li>Low-Difficulty</li>
+          <li>Department-specific courses</li>
+        </ul>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🔍 Search Page
 
-- Filter courses by:
-  - **Department**, **Professor**, **Credit count**
-- Search with keywords (course title, professor name, etc.)
-- Sort courses by:
-  - **Rating**, **Difficulty**
-- Click any course to view detailed info
-
-<p align="center">
-  <img src="platformer/docs/search.png" alt="Search Page" width="400"/>
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <img src="docs/search.png" alt="Search Page" width="100%" />
+    </td>
+    <td width="50%">
+      <ul>
+        <li>Keyword search by course name, professor, department, etc.</li>
+        <li>Filter by:
+          <ul>
+            <li>Department</li>
+            <li>Professor</li>
+            <li>Credits</li>
+          </ul>
+        </li>
+        <li>Sort by rating or difficulty</li>
+        <li>Click a course to view detailed information</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 📖 Course Detail Page
 
-- View:
-  - Overall rating
-  - Course title, professor, and course description
-- Write a review with comment and star rating
-- See rating distribution graph
-- Browse peer reviews
+<table>
+  <tr>
+    <td width="50%">
+      <img src="docs/detail.png" alt="Course Detail Page" width="100%" />
+    </td>
+    <td width="50%">
+      <ul>
+        <li>Displays course name, semester, code, description, and overall rating</li>
+        <li>Write a review with star rating and comment</li>
+        <li>View rating distribution graph</li>
+        <li>Browse written reviews from other students</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="platformer/docs/detail.png" alt="Course Detail" width="400"/>
-</p>
 
 ---
 
